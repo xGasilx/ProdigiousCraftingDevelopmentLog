@@ -1,6 +1,7 @@
-# ProdigiousCraftingDevelopmentLog
-What's been developed in Prodigious Crafting addon.
+PENDANT
+Add mcm options to disable certain recipes, but do it on Prodigious Bounty MCM.
 
+1.0
 ==============================
 ===Prodigious Crafting===
 ==============================
@@ -149,11 +150,46 @@ Added "Malign Mortal's Havoc" with Damage 80 Health and 60 Stamina and Magicka.
 Added "Deadly Mortal's Havoc" with Damage 100 Health and 75 Stamina and Magicka.
 
 Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Argonians.
-Added "Weak Argonian's Havoc" with Damage 20 Health and 15 Stamina and Magicka and Weakness to Frost and Poison 10%
-Added "Argonian's Havoc" with Damage 40 Health and 30 Stamina and Magicka and Weakness to Frost and Poison 20%
-Added "Potent Argonian's Havoc" with Damage 60 Health and 45 Stamina and Magicka and Weakness to Frost and Poison 30%
-Added "Malign Argonian's Havoc" with Damage 80 Health and 60 Stamina and Magicka and Weakness to Frost and Poison 40%
-Added "Deadly Argonian's Havoc" with Damage 100 Health and 75 Stamina and Magicka and Weakness to Frost and Poison 50%
+Added "Weak Argonian's Havoc" with Damage 20 Health, Stamina and Magicka and Weakness to Frost and Poison 10%
+Added "Argonian's Havoc" with Damage 40 Health, Stamina and Magicka and Weakness to Frost and Poison 20%
+Added "Potent Argonian's Havoc" with Damage 60 Health, Stamina and Magicka and Weakness to Frost and Poison 30%
+Added "Malign Argonian's Havoc" with Damage 80 Health, Stamina and Magicka and Weakness to Frost and Poison 40%
+Added "Deadly Argonian's Havoc" with Damage 100 Health, Stamina and Magicka and Weakness to Frost and Poison 50%
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Bretons.
+Added "Weak Breton's Havoc" with Damage 20 Health, Stamina and Magicka and Weakness to Magic 10% and Damage Magicka Regen 100%/30s
+Added "Breton's Havoc" with Damage 40 Health, Stamina and Magicka and Weakness to Magic 20% and Damage Magicka Regen 100%/35s
+Added "Potent Breton's Havoc" with Damage 60 Health, Stamina and Magicka and Weakness to Magic 30% and Damage Magicka Regen 100%/40
+Added "Malign Breton's Havoc" with Damage 80 Health, Stamina and Magicka and Weakness to Magic 40% and Damage Magicka Regen 100%/50s
+Added "Deadly Breton's Havoc" with Damage 100 Health, Stamina and Magicka and Weakness to Magic 50% and Damage Magicka Regen 100%/60s
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Dark Elves.
+Added "Weak Dunmer's Havoc" with Damage 20 Health, Stamina and Magicka and Weakness to Fire and Shock 10%
+Added "Dunmer's Havoc" with Damage 40 Health, Stamina and Magicka and Weakness to Fire and Shock 20%
+Added "Potent Dunmer's Havoc" with Damage 60 Health, Stamina and Magicka and Weakness to Fire and Shock 30%
+Added "Malign Dunmer's Havoc" with Damage 80 Health, Stamina and Magicka and Weakness to Fire and Shock 40%
+Added "Deadly Dunmer's Havoc" with Damage 100 Health, Stamina and Magicka and Weakness to Fire and Shock 50%
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Falmer.
+Added "Weak Falmer's Havoc" with Damage 20 Health, Stamina and Magicka, Weakness to Shock 10% and Frenzy for 30 seconds
+Added "Falmer's Havoc" with Damage 40 Health, Stamina and Magicka, Weakness to Shock 20% and Frenzy for 35 seconds
+Added "Potent Falmer's Havoc" with Damage 60 Health, Stamina and Magicka, Weakness to Shock 30% and Frenzy for 40 seconds
+Added "Malign Falmer's Havoc" with Damage 80 Health, Stamina and Magicka, Weakness to Shock 40% and Frenzy for 50 seconds
+Added "Deadly Falmer's Havoc" with Damage 100 Health, Stamina and Magicka, Weakness to Shock 50% and Frenzy for 60 seconds
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect High Elves.
+Added "Weak Altmer's Havoc" with Damage 20 Health, Stamina and Magicka, Fear for 30 seconds, Ravage Magicka 15/30s
+Added "Altmer's Havoc" with Damage 40 Health, Stamina and Magicka, Fear for 35 seconds, Ravage Magicka 25/35s
+Added "Potent Altmer's Havoc" with Damage 60 Health, Stamina and Magicka, Fear for 40 seconds, Ravage Magicka 35/40s
+Added "Malign Altmer's Havoc" with Damage 80 Health, Stamina and Magicka, Fear for 50 seconds, Ravage Magicka 45/50s
+Added "Deadly Altmer's Havoc" with Damage 100 Health, Stamina and Magicka, Fear for 60 seconds, Ravage Magicka 45/60s
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Imperial.
+Added "Weak Imperial's Havoc" with Damage 20 Health, Stamina and Magicka, Calm for 10 seconds, Lingering Damage Health 1/10s
+Added "Imperial's Havoc" with Damage 40 Health, Stamina and Magicka, Calm for 15 seconds, Lingering Damage Health 1/20s
+Added "Potent Imperial's Havoc" with Damage 60 Health, Stamina and Magicka, Calm for 20 seconds, Lingering Damage Health 2/25s
+Added "Malign Imperial's Havoc" with Damage 80 Health, Stamina and Magicka, Calm for 25 seconds, Lingering Damage Health 2/30s
+Added "Deadly Imperial's Havoc" with Damage 100 Health, Stamina and Magicka, Calm for 30 seconds, Lingering Damage Health 3/30s
 
 ==============================
 ===Weapons===
@@ -431,6 +467,36 @@ Added a Handcraft recipe to create "Argonian's Havoc"
 Added a Handcraft recipe to create "Potent Argonian's Havoc"
 Added a Handcraft recipe to create "Malign Argonian's Havoc"
 Added a Handcraft recipe to create "Deadly Argonian's Havoc"
+
+Added a Handcraft recipe to create "Weak Breton's Havoc"
+Added a Handcraft recipe to create "Breton's Havoc"
+Added a Handcraft recipe to create "Potent Breton's Havoc"
+Added a Handcraft recipe to create "Malign Breton's Havoc"
+Added a Handcraft recipe to create "Deadly Breton's Havoc"
+
+Added a Handcraft recipe to create "Weak Dunmer's Havoc"
+Added a Handcraft recipe to create "Dunmer's Havoc"
+Added a Handcraft recipe to create "Potent Dunmer's Havoc"
+Added a Handcraft recipe to create "Malign Dunmer's Havoc"
+Added a Handcraft recipe to create "Deadly Dunmer's Havoc"
+
+Added a Handcraft recipe to create "Weak Falmer's Havoc"
+Added a Handcraft recipe to create "Falmer's Havoc"
+Added a Handcraft recipe to create "Potent Falmer's Havoc"
+Added a Handcraft recipe to create "Malign Falmer's Havoc"
+Added a Handcraft recipe to create "Deadly Falmer's Havoc"
+
+Added a Handcraft recipe to create "Weak Altmer's Havoc"
+Added a Handcraft recipe to create "Altmer's Havoc"
+Added a Handcraft recipe to create "Potent Altmer's Havoc"
+Added a Handcraft recipe to create "Malign Altmer's Havoc"
+Added a Handcraft recipe to create "Deadly Altmer's Havoc"
+
+Added a Handcraft recipe to create "Weak Imperial's Havoc"
+Added a Handcraft recipe to create "Imperial's Havoc"
+Added a Handcraft recipe to create "Potent Imperial's Havoc"
+Added a Handcraft recipe to create "Malign Imperial's Havoc"
+Added a Handcraft recipe to create "Deadly Imperial's Havoc"
 
 ==============================
 ===Food Items===
