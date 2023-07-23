@@ -19,6 +19,10 @@ Added "Neutral Base" with Restore 1 Health. It's meant to be used as a crafting 
 Added "Potion of Creature Blood" with Blood Ingestion and Restore 50 Health.
 Added "Potion of Giant Blood" with Blood Ingestion and Restore 125 Health.
 Added "Potion of Hagraven Blood" with Blood Ingestion and Restore 50 Magicka.
+Added "Potion of Troll Blood" with Blood Ingestion and Restore 2 Health for 300 seconds.
+Added "Potion of Werewolf Blood" with Blood Ingestion and Restore 3 Stamina for 300 seconds and Fortify Stamina 50.
+Added "Potion of Werebear Blood" with Blood Ingestion and Restore 3 Stamina for 300 seconds and Fortify Health 50.
+Added "Potion of Seeker Blood" with Blood Ingestion and Restore 2 Magicka for 300 seconds and Fortify Magicka 50.
 
 
 ==============================
@@ -143,11 +147,11 @@ Added "Malign Prey's Snare" with Lingering Damage Health 5/25s, Damage Speed 50%
 Added "Deadly Prey's Snare" with Lingering Damage Health 6/30s, Damage Speed 60%/60s, Damage 100 Stamina and Liquify (makes carcass easier to process).
 
 Added poisons that can only be applied to men, mer and beast (non-vampire human, elves (including falmer), khajiit and argonian)
-Added "Weak Mortal's Havoc" with Damage 20 Health and 15 Stamina and Magicka.
-Added "Mortal's Havoc" with Damage 40 Health and 30 Stamina and Magicka.
-Added "Potent Mortal's Havoc" with Damage 60 Health and 45 Stamina and Magicka.
-Added "Malign Mortal's Havoc" with Damage 80 Health and 60 Stamina and Magicka.
-Added "Deadly Mortal's Havoc" with Damage 100 Health and 75 Stamina and Magicka.
+Added "Weak Mortal's Havoc" with Damage 20 Health, Stamina and Magicka.
+Added "Mortal's Havoc" with Damage 40 Health, Stamina and Magicka.
+Added "Potent Mortal's Havoc" with Damage 60 Health, Stamina and Magicka.
+Added "Malign Mortal's Havoc" with Damage 80 Health, Stamina and Magicka.
+Added "Deadly Mortal's Havoc" with Damage 100 Health, Stamina and Magicka.
 
 Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Argonians.
 Added "Weak Argonian's Havoc" with Damage 20 Health, Stamina and Magicka and Weakness to Frost and Poison 10%
@@ -184,12 +188,143 @@ Added "Potent Altmer's Havoc" with Damage 60 Health, Stamina and Magicka, Fear f
 Added "Malign Altmer's Havoc" with Damage 80 Health, Stamina and Magicka, Fear for 50 seconds, Ravage Magicka 45/50s
 Added "Deadly Altmer's Havoc" with Damage 100 Health, Stamina and Magicka, Fear for 60 seconds, Ravage Magicka 45/60s
 
-Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Imperial.
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Imperials.
 Added "Weak Imperial's Havoc" with Damage 20 Health, Stamina and Magicka, Calm for 10 seconds, Lingering Damage Health 1/10s
 Added "Imperial's Havoc" with Damage 40 Health, Stamina and Magicka, Calm for 15 seconds, Lingering Damage Health 1/20s
 Added "Potent Imperial's Havoc" with Damage 60 Health, Stamina and Magicka, Calm for 20 seconds, Lingering Damage Health 2/25s
 Added "Malign Imperial's Havoc" with Damage 80 Health, Stamina and Magicka, Calm for 25 seconds, Lingering Damage Health 2/30s
 Added "Deadly Imperial's Havoc" with Damage 100 Health, Stamina and Magicka, Calm for 30 seconds, Lingering Damage Health 3/30s
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Khajiits.
+Added "Weak Imperial's Havoc" with Damage 20 Health, Stamina and Magicka, Damage Speed 10% for 30 seconds and Damage Stamina Rate 100%/30s.
+Added "Imperial's Havoc" with Damage 40 Health, Stamina and Magicka, Damage Speed 20% for 30 seconds and Damage Stamina Rate 100%/35s.
+Added "Potent Imperial's Havoc" with Damage 60 Health, Stamina and Magicka, Damage Speed 30% for 30 seconds and Damage Stamina Rate 100%/45s.
+Added "Malign Imperial's Havoc" with Damage 80 Health, Stamina and Magicka, Damage Speed 40% for 30 seconds and Damage Stamina Rate 100%/50s.
+Added "Deadly Imperial's Havoc" with Damage 100 Health, Stamina and Magicka, Damage Speed 50% for 30 seconds and Damage Stamina Rate 100%/60s.
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Nords.
+Added "Weak Nord's Havoc" with Damage 20 Health, Stamina and Magicka and Weakness to Fire and Frost 10%
+Added "Nord's Havoc" with Damage 40 Health, Stamina and Magicka and Weakness to Fire and Frost 20%
+Added "Potent Nord's Havoc" with Damage 60 Health, Stamina and Magicka and Weakness to Fire and Frost 30%
+Added "Malign Nord's Havoc" with Damage 80 Health, Stamina and Magicka and Weakness to Fire and Frost 40%
+Added "Deadly Nord's Havoc" with Damage 100 Health, Stamina and Magicka and Weakness to Fire and Frost 50%
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Orcs.
+Added "Weak Orsimer's Havoc" with Damage 20 Health, Stamina and Magicka, Lowered Melee Damage 10%/30s and Frenzy for 30 seconds
+Added "Orsimer's Havoc" with Damage 40 Health, Stamina and Magicka, Lowered Melee Damage 20%/30s and Frenzy for 35 seconds
+Added "Potent Orsimer's Havoc" with Damage 60 Health, Stamina and Magicka, Lowered Melee Damage 30%/30s and Frenzy for 40 seconds
+Added "Malign Orsimer's Havoc" with Damage 80 Health, Stamina and Magicka, Lowered Melee Damage 40%/30s and Frenzy for 50 seconds
+Added "Deadly Orsimer's Havoc" with Damage 100 Health, Stamina and Magicka, Lowered Melee Damage 50%/30s and Frenzy for 60 seconds
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Redguards.
+Added "Weak Redguard's Havoc" with Damage 20 Health, Stamina and Magicka, Weakness to Poison 10%/60s and Lingering Damage Stamina 1/10s.
+Added "Redguard's Havoc" with Damage 40 Health, Stamina and Magicka, Weakness to Poison 20%/60s and Lingering Damage Stamina 1/20s.
+Added "Potent Redguard's Havoc" with Damage 60 Health, Stamina and Magicka, Weakness to Poison 30%/60s and Lingering Damage Stamina 2/25s.
+Added "Malign Redguard's Havoc" with Damage 80 Health, Stamina and Magicka, Weakness to Poison 40%/60s and Lingering Damage Stamina 2/30s.
+Added "Deadly Redguard's Havoc" with Damage 100 Health, Stamina and Magicka, Weakness to Poison 50%/60s and Lingering Damage Stamina 3/30s.
+
+Added Mortal Havoc poison variants that affect men, mer and beast, but the last 2 effects only affect Wood Elves.
+Added "Weak Bosmer's Havoc" with Damage 20 Health, Stamina and Magicka and Weakness to Frost and Shock 10%
+Added "Bosmer's Havoc" with Damage 40 Health, Stamina and Magicka and Weakness to Frost and Shock 20%
+Added "Potent Bosmer's Havoc" with Damage 60 Health, Stamina and Magicka and Weakness to Frost and Shock 30%
+Added "Malign Bosmer's Havoc" with Damage 80 Health, Stamina and Magicka and Weakness to Frost and Shock 40%
+Added "Deadly Bosmer's Havoc" with Damage 100 Health, Stamina and Magicka and Weakness to Frost and Shock 50%
+
+==============================
+===Food Items===
+==============================
+Added a new food item called "Vial of Mixed Human Blood"
+
+Added a new food item called "Salt-Cured Argonian Meat"
+Added a new food item called "Salt-Cured Breton Meat"
+Added a new food item called "Salt-Cured Dunmer Meat"
+Added a new food item called "Salt-Cured Falmer Meat"
+Added a new food item called "Salt-Cured Altmer Meat"
+Added a new food item called "Salt-Cured Imperial Meat"
+Added a new food item called "Salt-Cured Khajiit Meat" 
+Added a new food item called "Salt-Cured Nord Meat"
+Added a new food item called "Salt-Cured Orsimer Meat" 
+Added a new food item called "Salt-Cured Redguard Meat"
+Added a new food item called "Salt-Cured Bosmer Meat"
+
+Added a new food item called "Salt-Cured Bear Meat"
+Added a new food item called "Salt-Cured Cave Bear Meat"
+Added a new food item called "Salt-Cured Chaurus Meat"
+Added a new food item called "Salt-Cured Death Hound Meat" 
+Added a new food item called "Salt-Cured Vale Deer Meat" 
+Added a new food item called "Salt-Cured Venison" 
+Added a new food item called "Salt-Cured Dog Meat" 
+Added a new food item called "Salt-Cured Fire Dragon Meat" 
+Added a new food item called "Salt-Cured Frost Dragon Meat" 
+Added a new food item called "Salt-Cured Reverend Dragon Meat" 
+Added a new food item called "Salt-Cured Serpentine Dragon Meat" 
+Added a new food item called "Salt-Cured Ice Fox Meat" 
+Added a new food item called "Salt-Cured Fox Meat" 
+Added a new food item called "Salt-Cured Frost Giant Meat" 
+Added a new food item called "Salt-Cured Giant Meat" 
+Added a new food item called "Salt-Cured Hagraven Meat" 
+Added a new food item called "Salt-Cured Hare Meat" 
+Added a new food item called "Salt-Cured Lurker Meat" 
+Added a new food item called "Salt-Cured Mammoth Meat" 
+Added a new food item called "Salt-Cured Mudcrab Meat" 
+Added a new food item called "Salt-Cured Netch Meat" 
+Added a new food item called "Salt-Cured Sabrecat Meat" 
+Added a new food item called "Salt-Cured Snow Sabrecat Meat" 
+Added a new food item called "Salt-Cured Vale Sabrecat Meat" 
+Added a new food item called "Salt-Cured Seeker Meat" 
+Added a new food item called "Salt-Cured Skeever Meat" 
+Added a new food item called "Salt-Cured Cave Troll Meat" 
+Added a new food item called "Salt-Cured Frost Troll Meat" 
+Added a new food item called "Salt-Cured Werebear Meat" 
+Added a new food item called "Salt-Cured Werewolf Meat" 
+Added a new food item called "Salt-Cured Wolf Meat" 
+Added a new food item called "Salt-Cured Ice Wolf Meat" 
+Added a new food item called "Salt-Cured Vampire Meat" 
+Added a new food item called "Salt-Cured Riekling Meat" 
+Added a new food item called "Salt-Cured Beef" 
+Added a new food item called "Salt-Cured Leg of Goat" 
+Added a new food item called "Salt-Cured Horker Meat" 
+Added a new food item called "Salt-Cured Mammoth Snout" 
+Added a new food item called "Salt-Cured Pheasant Breast" 
+Added a new food item called "Salt-Cured Salt Cured Hare Haunch" 
+Added a new food item called "Salt-Cured Salmon Steak" 
+Added a new food item called "Salt-Cured Slaughterfish Steak" 
+
+==============================
+===Ammo===
+==============================
+Added a new ammo arrow called "Crude Bone Arrow"
+Added a new ammo arrow called "Fair Bone Arrow"
+Added a new ammo arrow called "Refined Bone Arrow"
+Added a new ammo arrow called "Superb Bone Arrow"
+
+Added a new ammo bolt called "Crude Bone Bolt"
+Added a new ammo bolt called "Fair Bone Bolt"
+Added a new ammo bolt called "Refined Bone Bolt"
+Added a new ammo bolt called "Superb Bone Bolt"
+
+==============================
+===Armor===
+==============================
+Added a new boots armor called Light Crude Bone Boots.
+Added a new boots armor called Light Fair Bone Boots.
+Added a new boots armor called Light Refined Bone Boots.
+Added a new boots armor called Light Superb Bone Boots.
+
+Added a new boots armor called Light Crude Bone Gauntlets.
+Added a new boots armor called Light Fair Bone Gauntlets.
+Added a new boots armor called Light Refined Bone Gauntlets.
+Added a new boots armor called Light Superb Bone Gauntlets.
+
+Added a new boots armor called Crude Bone Cuirass.
+Added a new boots armor called Fair Bone Cuirass.
+Added a new boots armor called Refined Bone Cuirass.
+Added a new boots armor called Superb Bone Cuirass.
+
+Added a new boots armor called Light Crude Bone Helmet.
+Added a new boots armor called Light Fair Bone Gauntlets.
+Added a new boots armor called Light Refined Bone Gauntlets.
+Added a new boots armor called Light Superb Bone Gauntlets.
 
 ==============================
 ===Weapons===
@@ -207,17 +342,23 @@ Added a new weapon called "Fair Bone Bow".
 Added a new weapon called "Refined Bone Bow".
 Added a new weapon called "Superb Bone Bow".
 
-==============================
-===Ammo===
-==============================
-Added new ammo arrow called "Crude Bone Arrow"
-Added new ammo arrow called "Fair Bone Arrow"
-Added new ammo arrow called "Refined Bone Arrow"
-Added new ammo arrow called "Superb Bone Arrow"
 
 ==============================
 ===Recipes===
 ==============================
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Argonian Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Breton Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Dunmer Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Falmer Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Altmer Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Imperial Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Khajiit Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Nord Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Orsimer Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Redguard Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Bosmer Blood
+Added a Handcraft recipe to create vanilla Potion of Blood with Mixed Human Blood
+
 Added a Handcraft recipe to create Caustic Base with Chaurus Eggs.
 Added a Handcraft recipe to create Caustic Base with Frostbite Venom.
 Added a Handcraft recipe to create Caustic Base with Jazbay Grapes.
@@ -268,6 +409,9 @@ Added a Handcraft recipe to create vanilla "Deadly Aversion to Shock"
 Added a Handcraft recipe to create Potion of Creature Blood with Vial of Creature Blood.
 Added a Handcraft recipe to create Potion of Giant Blood with Vial of Giant Blood.
 Added a Handcraft recipe to create Potion of Hagraven Blood with Vial of Hagraven Blood.
+Added a Handcraft recipe to create Potion of Troll Blood with Vial of Troll Blood.
+Added a Handcraft recipe to create Potion of Werewolf Blood with Vial of Werewolf Blood.
+Added a Handcraft recipe to create Potion of Werebear Blood with Vial of Werebear Blood.
 
 Added a Handcraft recipe to create Basket01 
 Added a Handcraft recipe to create Basket02
@@ -289,22 +433,49 @@ Added a Handcraft recipe to create Firewood from Buckets and Musical Instruments
 Added a Handcraft recipe to craft Torch from Linen Wrap and Firewood
 
 Added a Handcraft recipe to craft Crude Bone Sword and its tempering recipe for the grindstone.
-Added a Handcraft recipe to craft Crude Bone Waraxe and its tempering recipe for the grindstone.
-Added a Handcraft recipe to craft Crude Bone Bow and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Fair Bone Sword and its tempering recipe for the grindstone.
-Added a Handcraft recipe to craft Fair Bone Waraxe and its tempering recipe for the grindstone.
-Added a Handcraft recipe to craft Fair Bone Bow and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Refined Bone Sword and its tempering recipe for the grindstone.
-Added a Handcraft recipe to craft Refined Bone Waraxe and its tempering recipe for the grindstone.
-Added a Handcraft recipe to craft Refined Bone Bow and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Superb Bone Sword and its tempering recipe for the grindstone.
+
+Added a Handcraft recipe to craft Crude Bone Waraxe and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Fair Bone Waraxe and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Refined Bone Waraxe and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Superb Bone Waraxe and its tempering recipe for the grindstone.
+
+Added a Handcraft recipe to craft Crude Bone Bow and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Fair Bone Bow and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Refined Bone Bow and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Superb Bone Bow and its tempering recipe for the grindstone.
+
+Added a Handcraft recipe to craft Light Crude Bone Boots and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Fair Bone Boots and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Refined Bone Boots and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Superb Bone Boots and its tempering recipe for the armor table.
+
+Added a Handcraft recipe to craft Crude Bone Cuirass and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Fair Bone Cuirass and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Refined Bone Cuirass and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Superb Bone Cuirass and its tempering recipe for the armor table.
+
+Added a Handcraft recipe to craft Light Crude Bone Gauntlets and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Fair Bone Gauntlets and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Refined Bone Gauntlets and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Superb Bone Gauntlets and its tempering recipe for the armor table.
+
+Added a Handcraft recipe to craft Light Crude Bone Helmet and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Fair Bone Helmet and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Refined Bone Helmet and its tempering recipe for the armor table.
+Added a Handcraft recipe to craft Light Superb Bone Helmet and its tempering recipe for the armor table.
 
 Added a Handcraft recipe to craft Crude Bone Arrow.
 Added a Handcraft recipe to craft Fair Bone Arrow.
 Added a Handcraft recipe to craft Refined Bone Arrow.
 Added a Handcraft recipe to craft Superb Bone Arrow.
+
+Added a Handcraft recipe to craft Crude Bone Bolt.
+Added a Handcraft recipe to craft Fair Bone Bolt.
+Added a Handcraft recipe to craft Refined Bone Bolt.
+Added a Handcraft recipe to craft Superb Bone Bolt.
 
 Added a Handcraft recipe to create "Salt-Cured Argonian Meat"
 Added a Handcraft recipe to create "Salt-Cured Breton Meat"
@@ -498,60 +669,38 @@ Added a Handcraft recipe to create "Potent Imperial's Havoc"
 Added a Handcraft recipe to create "Malign Imperial's Havoc"
 Added a Handcraft recipe to create "Deadly Imperial's Havoc"
 
-==============================
-===Food Items===
-==============================
-Added a new food item called "Salt-Cured Argonian Meat"
-Added a new food item called "Salt-Cured Breton Meat"
-Added a new food item called "Salt-Cured Dunmer Meat"
-Added a new food item called "Salt-Cured Falmer Meat"
-Added a new food item called "Salt-Cured Altmer Meat"
-Added a new food item called "Salt-Cured Imperial Meat"
-Added a new food item called "Salt-Cured Khajiit Meat" 
-Added a new food item called "Salt-Cured Nord Meat"
-Added a new food item called "Salt-Cured Orsimer Meat" 
-Added a new food item called "Salt-Cured Redguard Meat"
-Added a new food item called "Salt-Cured Bosmer Meat"
+Added a Handcraft recipe to create "Weak Imperial's Havoc"
+Added a Handcraft recipe to create "Imperial's Havoc"
+Added a Handcraft recipe to create "Potent Imperial's Havoc"
+Added a Handcraft recipe to create "Malign Imperial's Havoc"
+Added a Handcraft recipe to create "Deadly Imperial's Havoc"
 
-Added a new food item called "Salt-Cured Bear Meat"
-Added a new food item called "Salt-Cured Cave Bear Meat"
-Added a new food item called "Salt-Cured Chaurus Meat"
-Added a new food item called "Salt-Cured Death Hound Meat" 
-Added a new food item called "Salt-Cured Vale Deer Meat" 
-Added a new food item called "Salt-Cured Venison" 
-Added a new food item called "Salt-Cured Dog Meat" 
-Added a new food item called "Salt-Cured Fire Dragon Meat" 
-Added a new food item called "Salt-Cured Frost Dragon Meat" 
-Added a new food item called "Salt-Cured Reverend Dragon Meat" 
-Added a new food item called "Salt-Cured Serpentine Dragon Meat" 
-Added a new food item called "Salt-Cured Ice Fox Meat" 
-Added a new food item called "Salt-Cured Fox Meat" 
-Added a new food item called "Salt-Cured Frost Giant Meat" 
-Added a new food item called "Salt-Cured Giant Meat" 
-Added a new food item called "Salt-Cured Hagraven Meat" 
-Added a new food item called "Salt-Cured Hare Meat" 
-Added a new food item called "Salt-Cured Lurker Meat" 
-Added a new food item called "Salt-Cured Mammoth Meat" 
-Added a new food item called "Salt-Cured Mudcrab Meat" 
-Added a new food item called "Salt-Cured Netch Meat" 
-Added a new food item called "Salt-Cured Sabrecat Meat" 
-Added a new food item called "Salt-Cured Snow Sabrecat Meat" 
-Added a new food item called "Salt-Cured Vale Sabrecat Meat" 
-Added a new food item called "Salt-Cured Seeker Meat" 
-Added a new food item called "Salt-Cured Skeever Meat" 
-Added a new food item called "Salt-Cured Cave Troll Meat" 
-Added a new food item called "Salt-Cured Frost Troll Meat" 
-Added a new food item called "Salt-Cured Werebear Meat" 
-Added a new food item called "Salt-Cured Werewolf Meat" 
-Added a new food item called "Salt-Cured Wolf Meat" 
-Added a new food item called "Salt-Cured Ice Wolf Meat" 
-Added a new food item called "Salt-Cured Vampire Meat" 
-Added a new food item called "Salt-Cured Riekling Meat" 
-Added a new food item called "Salt-Cured Beef" 
-Added a new food item called "Salt-Cured Leg of Goat" 
-Added a new food item called "Salt-Cured Horker Meat" 
-Added a new food item called "Salt-Cured Mammoth Snout" 
-Added a new food item called "Salt-Cured Pheasant Breast" 
-Added a new food item called "Salt-Cured Salt Cured Hare Haunch" 
-Added a new food item called "Salt-Cured Salmon Steak" 
-Added a new food item called "Salt-Cured Slaughterfish Steak" 
+Added a Handcraft recipe to create "Weak Khajiit's Havoc"
+Added a Handcraft recipe to create "Khajiit's Havoc"
+Added a Handcraft recipe to create "Potent Khajiit's Havoc"
+Added a Handcraft recipe to create "Malign Khajiit's Havoc"
+Added a Handcraft recipe to create "Deadly Khajiit's Havoc"
+
+Added a Handcraft recipe to create "Weak Nord's Havoc"
+Added a Handcraft recipe to create "Nord's Havoc"
+Added a Handcraft recipe to create "Potent Nord's Havoc"
+Added a Handcraft recipe to create "Malign Nord's Havoc"
+Added a Handcraft recipe to create "Deadly Nord's Havoc"
+
+Added a Handcraft recipe to create "Weak Orsimer's Havoc"
+Added a Handcraft recipe to create "Orsimer's Havoc"
+Added a Handcraft recipe to create "Potent Orsimer's Havoc"
+Added a Handcraft recipe to create "Malign Orsimer's Havoc"
+Added a Handcraft recipe to create "Deadly Orsimer's Havoc"
+
+Added a Handcraft recipe to create "Weak Redguard's Havoc"
+Added a Handcraft recipe to create "Redguard's Havoc"
+Added a Handcraft recipe to create "Potent Redguard's Havoc"
+Added a Handcraft recipe to create "Malign Redguard's Havoc"
+Added a Handcraft recipe to create "Deadly Redguard's Havoc"
+
+Added a Handcraft recipe to create "Weak Bosmer's Havoc"
+Added a Handcraft recipe to create "Bosmer's Havoc"
+Added a Handcraft recipe to create "Potent Bosmer's Havoc"
+Added a Handcraft recipe to create "Malign Bosmer's Havoc"
+Added a Handcraft recipe to create "Deadly Bosmer's Havoc"
