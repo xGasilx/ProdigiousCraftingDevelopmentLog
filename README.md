@@ -1,6 +1,3 @@
-PENDANT
-Add mcm options to disable certain recipes, but do it on Prodigious Bounty MCM.
-
 1.0
 ==============================
 ===Prodigious Crafting===
@@ -11,6 +8,12 @@ Add mcm options to disable certain recipes, but do it on Prodigious Bounty MCM.
 ==============================
 Added an MCM option to hide or display basic crafting recipes in the crafting menu.
 Added a new column in Compatibility tab called "Add-ons" where you can see the list of available addons and their installed status.
+Added MCM options to straight out enable or disable Arrows, Bolts, Weapon, Armor, Potion, Blood Potion, Poison, Miscelaneous and Salvage recipes from the handcraft menu.
+
+==============================
+===Miscelaneous===
+==============================
+Added "Thickened Grease" item. It's meant ot be used as a crafting ingredient.
 
 ==============================
 ===Potions===
@@ -23,7 +26,15 @@ Added "Potion of Troll Blood" with Blood Ingestion and Restore 2 Health for 300 
 Added "Potion of Werewolf Blood" with Blood Ingestion and Restore 3 Stamina for 300 seconds and Fortify Stamina 50.
 Added "Potion of Werebear Blood" with Blood Ingestion and Restore 3 Stamina for 300 seconds and Fortify Health 50.
 Added "Potion of Seeker Blood" with Blood Ingestion and Restore 2 Magicka for 300 seconds and Fortify Magicka 50.
+Added "Soul Extract" with Resist Magic 15% and Restore 30 Magicka. Meant to be used as a crafting ingredient.
 
+==============================
+===Alchemical Ingredients===
+==============================
+Added "Flaming Grease" with Resist Fire, Weakness to Fire, Restore Health and Fortify Health Regeneration. It has greater magnitude in its effects.
+Added "Freezing Grease" with Resist Frost, Weakness to Frost, Restore Stamina and Fortify Stamina Regeneration. It has greater magnitude in its effects.
+Added "Electrifying Grease" with Resist Shock, Weakness to Shock, Restore Magicka and Fortify Magicka Regeneration. It has greater magnitude in its effects.
+Added "Poisonous Grease" with Resist Poison, Weakness to Poison, Damage Health and Lingering Damage Health. It has greater magnitude in its effects.
 
 ==============================
 ===Poisons===
@@ -306,25 +317,53 @@ Added a new ammo bolt called "Superb Bone Bolt"
 ==============================
 ===Armor===
 ==============================
-Added a new boots armor called Light Crude Bone Boots.
-Added a new boots armor called Light Fair Bone Boots.
-Added a new boots armor called Light Refined Bone Boots.
-Added a new boots armor called Light Superb Bone Boots.
+Added a new armor called Light Crude Bone Boots.
+Added a new armor called Light Fair Bone Boots.
+Added a new armor called Light Refined Bone Boots.
+Added a new armor called Light Superb Bone Boots.
 
-Added a new boots armor called Light Crude Bone Gauntlets.
-Added a new boots armor called Light Fair Bone Gauntlets.
-Added a new boots armor called Light Refined Bone Gauntlets.
-Added a new boots armor called Light Superb Bone Gauntlets.
+Added a new armor called Light Crude Bone Gauntlets.
+Added a new armor called Light Fair Bone Gauntlets.
+Added a new armor called Light Refined Bone Gauntlets.
+Added a new armor called Light Superb Bone Gauntlets.
 
-Added a new boots armor called Crude Bone Cuirass.
-Added a new boots armor called Fair Bone Cuirass.
-Added a new boots armor called Refined Bone Cuirass.
-Added a new boots armor called Superb Bone Cuirass.
+Added a new armor called Crude Bone Cuirass.
+Added a new armor called Fair Bone Cuirass.
+Added a new armor called Refined Bone Cuirass.
+Added a new armor called Superb Bone Cuirass.
 
-Added a new boots armor called Light Crude Bone Helmet.
-Added a new boots armor called Light Fair Bone Gauntlets.
-Added a new boots armor called Light Refined Bone Gauntlets.
-Added a new boots armor called Light Superb Bone Gauntlets.
+Added a new armor called Light Crude Bone Helmet.
+Added a new armor called Light Fair Bone Gauntlets.
+Added a new armor called Light Refined Bone Gauntlets.
+Added a new armor called Light Superb Bone Gauntlets.
+
+Added a new armor called Heavy Crude Bone Boots.
+Added a new armor called Heavy Fair Bone Boots.
+Added a new armor called Heavy Refined Bone Boots.
+Added a new armor called Heavy Superb Bone Boots.
+					 
+Added a new armor called Heavy Crude Bone Gauntlets.
+Added a new armor called Heavy Fair Bone Gauntlets.
+Added a new armor called Heavy Refined Bone Gauntlets.
+Added a new armor called Heavy Superb Bone Gauntlets.
+
+Added a new armor called Crude Bone Armor.
+Added a new armor called Fair Bone Armor.
+Added a new armor called Refined Bone Armor.
+Added a new armor called Superb Bone Armor.
+
+Added a new armor called Heavy Crude Bone Helmet.
+Added a new armor called Heavy Fair Bone Gauntlets.
+Added a new armor called Heavy Refined Bone Gauntlets.
+Added a new armor called Heavy Superb Bone Gauntlets.
+
+==============================
+===Enchantments===
+==============================
+Added Flaming Grease Fire Damage
+Added Freezing Grease Frost Damage
+Added Electrifying Grease Shock Damage
+Added Poisonous Grease Poison Damage
 
 ==============================
 ===Weapons===
@@ -342,76 +381,17 @@ Added a new weapon called "Fair Bone Bow".
 Added a new weapon called "Refined Bone Bow".
 Added a new weapon called "Superb Bone Bow".
 
+Added a weapon called "Greased Crude Bone Sword of Embers".
+Added a weapon called "Greased Crude Bone Sword of Burning".
+Added a weapon called "Greased Crude Bone Sword of Scorching".
+Added a weapon called "Greased Crude Bone Sword of Flames".
+Added a weapon called "Greased Crude Bone Sword of the Blaze".
+Added a weapon called "Greased Crude Bone Sword of the Inferno".
 
 ==============================
-===Recipes===
+===Miscelaneous Recipes===
 ==============================
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Argonian Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Breton Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Dunmer Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Falmer Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Altmer Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Imperial Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Khajiit Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Nord Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Orsimer Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Redguard Blood
-Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Bosmer Blood
-Added a Handcraft recipe to create vanilla Potion of Blood with Mixed Human Blood
-
-Added a Handcraft recipe to create Caustic Base with Chaurus Eggs.
-Added a Handcraft recipe to create Caustic Base with Frostbite Venom.
-Added a Handcraft recipe to create Caustic Base with Jazbay Grapes.
-
-Added a Handcraft recipe to create Neutral Base with Snowberries.
-Added a Handcraft recipe to create Neutral Base with Juniper Berries.
-Added a Handcraft recipe to create Neutral Base with Swamp Fungal Pod..
-
-Added a Handcraft recipe to create vanilla "Weak Damage Health" poison.
-Added a Handcraft recipe to create vanilla "Damage Health" poison.
-Added a Handcraft recipe to create vanilla "Potent Damage Health" poison.
-Added a Handcraft recipe to create vanilla "Malign Damage Health" poison.
-Added a Handcraft recipe to create vanilla "Deadly Damage Health" poison.
-
-Added a Handcraft recipe to create vanilla "Potion of Resist Fire"
-Added a Handcraft recipe to create vanilla "Draught of Resist Fire"
-Added a Handcraft recipe to create vanilla "Philter of Resist Fire"
-Added a Handcraft recipe to create vanilla "Elixir of Resist Fire"
-
-Added a Handcraft recipe to create vanilla "Potion of Resist Frost"
-Added a Handcraft recipe to create vanilla "Draught of Resist Frost"
-Added a Handcraft recipe to create vanilla "Philter of Resist Frost"
-Added a Handcraft recipe to create vanilla "Elixir of Resist Frost"
-
-Added a Handcraft recipe to create vanilla "Potion of Resist Shock"
-Added a Handcraft recipe to create vanilla "Draught of Resist Shock"
-Added a Handcraft recipe to create vanilla "Philter of Resist Shock"
-Added a Handcraft recipe to create vanilla "Elixir of Resist Shock"
-
-Added a Handcraft recipe to create vanilla "Weak Aversion to Fire"
-Added a Handcraft recipe to create vanilla "Aversion Fire"
-Added a Handcraft recipe to create vanilla "Potent Aversion to Fire"
-Added a Handcraft recipe to create vanilla "Maligh Aversion to Fire"
-Added a Handcraft recipe to create vanilla "Deadly Aversion to Fire"
-
-Added a Handcraft recipe to create vanilla "Weak Aversion to Frost"
-Added a Handcraft recipe to create vanilla "Aversion Frost"
-Added a Handcraft recipe to create vanilla "Potent Aversion to Frost"
-Added a Handcraft recipe to create vanilla "Maligh Aversion to Frost"
-Added a Handcraft recipe to create vanilla "Deadly Aversion to Frost"
-
-Added a Handcraft recipe to create vanilla "Weak Aversion to Shock"
-Added a Handcraft recipe to create vanilla "Aversion Shock"
-Added a Handcraft recipe to create vanilla "Potent Aversion to Shock"
-Added a Handcraft recipe to create vanilla "Maligh Aversion to Shock"
-Added a Handcraft recipe to create vanilla "Deadly Aversion to Shock"
-
-Added a Handcraft recipe to create Potion of Creature Blood with Vial of Creature Blood.
-Added a Handcraft recipe to create Potion of Giant Blood with Vial of Giant Blood.
-Added a Handcraft recipe to create Potion of Hagraven Blood with Vial of Hagraven Blood.
-Added a Handcraft recipe to create Potion of Troll Blood with Vial of Troll Blood.
-Added a Handcraft recipe to create Potion of Werewolf Blood with Vial of Werewolf Blood.
-Added a Handcraft recipe to create Potion of Werebear Blood with Vial of Werebear Blood.
+Added a Handcraft recipe to create Thickened Grease with the several creature fats.
 
 Added a Handcraft recipe to create Basket01 
 Added a Handcraft recipe to create Basket02
@@ -432,6 +412,33 @@ Added a Handcraft recipe to create Paper Roll from Ruined and Burned books.
 Added a Handcraft recipe to create Firewood from Buckets and Musical Instruments
 Added a Handcraft recipe to craft Torch from Linen Wrap and Firewood
 
+==============================
+===Alchemical Ingredient Recipes===
+==============================
+Added a Handcraft recipe to create Flaming Grease.
+Added a Handcraft recipe to create Freezing Grease.
+Added a Handcraft recipe to create Electrifying Grease.
+Added a Handcraft recipe to create Poisonous Grease.
+
+==============================
+===Blood Recipes===
+==============================
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Argonian Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Breton Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Dunmer Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Falmer Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Altmer Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Imperial Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Khajiit Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Nord Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Orsimer Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Redguard Blood
+Added a Handcraft recipe to create Vial of Mixed Human Blood with Vial of Bosmer Blood
+Added a Handcraft recipe to create vanilla Potion of Blood with Mixed Human Blood
+
+==============================
+===Weapon Recipes===
+==============================
 Added a Handcraft recipe to craft Crude Bone Sword and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Fair Bone Sword and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Refined Bone Sword and its tempering recipe for the grindstone.
@@ -447,6 +454,15 @@ Added a Handcraft recipe to craft Fair Bone Bow and its tempering recipe for the
 Added a Handcraft recipe to craft Refined Bone Bow and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Superb Bone Bow and its tempering recipe for the grindstone.
 
+Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 15.
+Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 30.
+Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 45.
+Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 60.
+Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 80.
+
+==============================
+===Armor Recipes===
+==============================
 Added a Handcraft recipe to craft Light Crude Bone Boots and its tempering recipe for the armor table.
 Added a Handcraft recipe to craft Light Fair Bone Boots and its tempering recipe for the armor table.
 Added a Handcraft recipe to craft Light Refined Bone Boots and its tempering recipe for the armor table.
@@ -477,6 +493,9 @@ Added a Handcraft recipe to craft Fair Bone Bolt.
 Added a Handcraft recipe to craft Refined Bone Bolt.
 Added a Handcraft recipe to craft Superb Bone Bolt.
 
+==============================
+===Food Recipes===
+==============================
 Added a Handcraft recipe to create "Salt-Cured Argonian Meat"
 Added a Handcraft recipe to create "Salt-Cured Breton Meat"
 Added a Handcraft recipe to create "Salt-Cured Dunmer Meat"
@@ -536,6 +555,65 @@ Added a Handcraft recipe to create "Spiced Wine" with Alto Wine (FoodWineAlto)
 Added a Handcraft recipe to create "Spiced Wine" with Alto Wine (FoodWineAltoA)
 Added a Handcraft recipe to create "Spiced Wine" with Wine (FoodWineBottle02)
 Added a Handcraft recipe to create "Spiced Wine" with Wine (FoodWineBottle02A)
+
+==============================
+===Potion and Poison Recipes===
+==============================
+Added a Handcraft recipe to create Soul Husk Extract.
+
+Added a Handcraft recipe to create Potion of Creature Blood with Vial of Creature Blood.
+Added a Handcraft recipe to create Potion of Giant Blood with Vial of Giant Blood.
+Added a Handcraft recipe to create Potion of Hagraven Blood with Vial of Hagraven Blood.
+Added a Handcraft recipe to create Potion of Troll Blood with Vial of Troll Blood.
+Added a Handcraft recipe to create Potion of Werewolf Blood with Vial of Werewolf Blood.
+Added a Handcraft recipe to create Potion of Werebear Blood with Vial of Werebear Blood.
+
+Added a Handcraft recipe to create Caustic Base with Chaurus Eggs.
+Added a Handcraft recipe to create Caustic Base with Frostbite Venom.
+Added a Handcraft recipe to create Caustic Base with Jazbay Grapes.
+
+Added a Handcraft recipe to create Neutral Base with Snowberries.
+Added a Handcraft recipe to create Neutral Base with Juniper Berries.
+Added a Handcraft recipe to create Neutral Base with Swamp Fungal Pod..
+
+Added a Handcraft recipe to create vanilla "Weak Damage Health" poison.
+Added a Handcraft recipe to create vanilla "Damage Health" poison.
+Added a Handcraft recipe to create vanilla "Potent Damage Health" poison.
+Added a Handcraft recipe to create vanilla "Malign Damage Health" poison.
+Added a Handcraft recipe to create vanilla "Deadly Damage Health" poison.
+
+Added a Handcraft recipe to create vanilla "Potion of Resist Fire"
+Added a Handcraft recipe to create vanilla "Draught of Resist Fire"
+Added a Handcraft recipe to create vanilla "Philter of Resist Fire"
+Added a Handcraft recipe to create vanilla "Elixir of Resist Fire"
+
+Added a Handcraft recipe to create vanilla "Potion of Resist Frost"
+Added a Handcraft recipe to create vanilla "Draught of Resist Frost"
+Added a Handcraft recipe to create vanilla "Philter of Resist Frost"
+Added a Handcraft recipe to create vanilla "Elixir of Resist Frost"
+
+Added a Handcraft recipe to create vanilla "Potion of Resist Shock"
+Added a Handcraft recipe to create vanilla "Draught of Resist Shock"
+Added a Handcraft recipe to create vanilla "Philter of Resist Shock"
+Added a Handcraft recipe to create vanilla "Elixir of Resist Shock"
+
+Added a Handcraft recipe to create vanilla "Weak Aversion to Fire"
+Added a Handcraft recipe to create vanilla "Aversion Fire"
+Added a Handcraft recipe to create vanilla "Potent Aversion to Fire"
+Added a Handcraft recipe to create vanilla "Maligh Aversion to Fire"
+Added a Handcraft recipe to create vanilla "Deadly Aversion to Fire"
+
+Added a Handcraft recipe to create vanilla "Weak Aversion to Frost"
+Added a Handcraft recipe to create vanilla "Aversion Frost"
+Added a Handcraft recipe to create vanilla "Potent Aversion to Frost"
+Added a Handcraft recipe to create vanilla "Maligh Aversion to Frost"
+Added a Handcraft recipe to create vanilla "Deadly Aversion to Frost"
+
+Added a Handcraft recipe to create vanilla "Weak Aversion to Shock"
+Added a Handcraft recipe to create vanilla "Aversion Shock"
+Added a Handcraft recipe to create vanilla "Potent Aversion to Shock"
+Added a Handcraft recipe to create vanilla "Maligh Aversion to Shock"
+Added a Handcraft recipe to create vanilla "Deadly Aversion to Shock"
 
 Added a Handcraft recipe to create "Weak Arthropod's Blight".
 Added a Handcraft recipe to create "Arthropod's Blight".
