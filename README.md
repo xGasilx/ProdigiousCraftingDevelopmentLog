@@ -368,18 +368,45 @@ Added Poisonous Grease Poison Damage
 ==============================
 ===Weapons===
 ==============================
+Added a new weapon called "Crude Bone Dagger".
+Added a new weapon called "Fair Bone Dagger".
+Added a new weapon called "Refined Bone Dagger".
+Added a new weapon called "Superb Bone Dagger".
+
 Added a new weapon called "Crude Bone Sword".
 Added a new weapon called "Fair Bone Sword".
 Added a new weapon called "Refined Bone Sword".
 Added a new weapon called "Superb Bone Sword".
+
 Added a new weapon called "Crude Bone Axe".
 Added a new weapon called "Fair Bone Axe".
 Added a new weapon called "Refined Bone Axe".
 Added a new weapon called "Superb Bone Axe".
+
+Added a new weapon called "Crude Bone Mace".
+Added a new weapon called "Fair Bone Mace".
+Added a new weapon called "Refined Bone Mace".
+Added a new weapon called "Superb Bone Mace".
+
 Added a new weapon called "Crude Bone Bow".
 Added a new weapon called "Fair Bone Bow".
 Added a new weapon called "Refined Bone Bow".
 Added a new weapon called "Superb Bone Bow".
+
+Added a new weapon called "Crude Bone Greatsword".
+Added a new weapon called "Fair Bone Greatsword".
+Added a new weapon called "Refined Bone Greatsword".
+Added a new weapon called "Superb Bone Greatsword".
+
+Added a new weapon called "Crude Bone Battleaxe".
+Added a new weapon called "Fair Bone Battleaxe".
+Added a new weapon called "Refined Bone Battleaxe".
+Added a new weapon called "Superb Bone Battleaxe".
+
+Added a new weapon called "Crude Bone Warhammer".
+Added a new weapon called "Fair Bone Warhammer".
+Added a new weapon called "Refined Bone Warhammer".
+Added a new weapon called "Superb Bone Warhammer".
 
 Added a weapon called "Greased Crude Bone Sword of Embers".
 Added a weapon called "Greased Crude Bone Sword of Burning".
@@ -387,6 +414,223 @@ Added a weapon called "Greased Crude Bone Sword of Scorching".
 Added a weapon called "Greased Crude Bone Sword of Flames".
 Added a weapon called "Greased Crude Bone Sword of the Blaze".
 Added a weapon called "Greased Crude Bone Sword of the Inferno".
+
+Added a weapon called "Greased Crude Bone Sword of Cold".
+Added a weapon called "Greased Crude Bone Sword of Frost".
+Added a weapon called "Greased Crude Bone Sword of Ice".
+Added a weapon called "Greased Crude Bone Sword of Freezing".
+Added a weapon called "Greased Crude Bone Sword of the Blizzard".
+Added a weapon called "Greased Crude Bone Sword of the Winter".
+
+Added a weapon called "Greased Crude Bone Sword of Sparks".
+Added a weapon called "Greased Crude Bone Sword of Arcing".
+Added a weapon called "Greased Crude Bone Sword of Shocks".
+Added a weapon called "Greased Crude Bone Sword of Thunderbolts".
+Added a weapon called "Greased Crude Bone Sword of Lightning".
+Added a weapon called "Greased Crude Bone Sword of Storms".
+
+Added a weapon called "Greased Crude Bone Sword of Poisoning".
+Added a weapon called "Greased Crude Bone Sword of Defilement".
+Added a weapon called "Greased Crude Bone Sword of Toxicity".
+Added a weapon called "Greased Crude Bone Sword of Pestilence".
+Added a weapon called "Greased Crude Bone Sword of Maladies".
+Added a weapon called "Greased Crude Bone Sword of Miasma".
+
+Added a weapon called "Greased Fair Bone Sword of Embers".
+Added a weapon called "Greased Fair Bone Sword of Burning".
+Added a weapon called "Greased Fair Bone Sword of Scorching".
+Added a weapon called "Greased Fair Bone Sword of Flames".
+Added a weapon called "Greased Fair Bone Sword of the Blaze".
+Added a weapon called "Greased Fair Bone Sword of the Inferno".
+
+Added a weapon called "Greased Fair Bone Sword of Cold".
+Added a weapon called "Greased Fair Bone Sword of Frost".
+Added a weapon called "Greased Fair Bone Sword of Ice".
+Added a weapon called "Greased Fair Bone Sword of Freezing".
+Added a weapon called "Greased Fair Bone Sword of the Blizzard".
+Added a weapon called "Greased Fair Bone Sword of the Winter".
+
+Added a weapon called "Greased Fair Bone Sword of Sparks".
+Added a weapon called "Greased Fair Bone Sword of Arcing".
+Added a weapon called "Greased Fair Bone Sword of Shocks".
+Added a weapon called "Greased Fair Bone Sword of Thunderbolts".
+Added a weapon called "Greased Fair Bone Sword of Lightning".
+Added a weapon called "Greased Fair Bone Sword of Storms".
+
+Added a weapon called "Greased Fair Bone Sword of Poisoning".
+Added a weapon called "Greased Fair Bone Sword of Defilement".
+Added a weapon called "Greased Fair Bone Sword of Toxicity".
+Added a weapon called "Greased Fair Bone Sword of Pestilence".
+Added a weapon called "Greased Fair Bone Sword of Maladies".
+Added a weapon called "Greased Fair Bone Sword of Miasma".
+
+Added a weapon called "Greased Refined Bone Sword of Embers".
+Added a weapon called "Greased Refined Bone Sword of Burning".
+Added a weapon called "Greased Refined Bone Sword of Scorching".
+Added a weapon called "Greased Refined Bone Sword of Flames".
+Added a weapon called "Greased Refined Bone Sword of the Blaze".
+Added a weapon called "Greased Refined Bone Sword of the Inferno".
+
+Added a weapon called "Greased Refined Bone Sword of Cold".
+Added a weapon called "Greased Refined Bone Sword of Frost".
+Added a weapon called "Greased Refined Bone Sword of Ice".
+Added a weapon called "Greased Refined Bone Sword of Freezing".
+Added a weapon called "Greased Refined Bone Sword of the Blizzard".
+Added a weapon called "Greased Refined Bone Sword of the Winter".
+							   
+Added a weapon called "Greased Refined Bone Sword of Sparks".
+Added a weapon called "Greased Refined Bone Sword of Arcing".
+Added a weapon called "Greased Refined Bone Sword of Shocks".
+Added a weapon called "Greased Refined Bone Sword of Thunderbolts".
+Added a weapon called "Greased Refined Bone Sword of Lightning".
+Added a weapon called "Greased Refined Bone Sword of Storms".
+							   
+Added a weapon called "Greased Refined Bone Sword of Poisoning".
+Added a weapon called "Greased Refined Bone Sword of Defilement".
+Added a weapon called "Greased Refined Bone Sword of Toxicity".
+Added a weapon called "Greased Refined Bone Sword of Pestilence".
+Added a weapon called "Greased Refined Bone Sword of Maladies".
+Added a weapon called "Greased Refined Bone Sword of Miasma".
+
+Added a weapon called "Greased Superb Bone Sword of Embers".
+Added a weapon called "Greased Superb Bone Sword of Burning".
+Added a weapon called "Greased Superb Bone Sword of Scorching".
+Added a weapon called "Greased Superb Bone Sword of Flames".
+Added a weapon called "Greased Superb Bone Sword of the Blaze".
+Added a weapon called "Greased Superb Bone Sword of the Inferno".
+							   
+Added a weapon called "Greased Superb Bone Sword of Cold".
+Added a weapon called "Greased Superb Bone Sword of Frost".
+Added a weapon called "Greased Superb Bone Sword of Ice".
+Added a weapon called "Greased Superb Bone Sword of Freezing".
+Added a weapon called "Greased Superb Bone Sword of the Blizzard".
+Added a weapon called "Greased Superb Bone Sword of the Winter".
+							   
+Added a weapon called "Greased Superb Bone Sword of Sparks".
+Added a weapon called "Greased Superb Bone Sword of Arcing".
+Added a weapon called "Greased Superb Bone Sword of Shocks".
+Added a weapon called "Greased Superb Bone Sword of Thunderbolts".
+Added a weapon called "Greased Superb Bone Sword of Lightning".
+Added a weapon called "Greased Superb Bone Sword of Storms".
+							   
+Added a weapon called "Greased Superb Bone Sword of Poisoning".
+Added a weapon called "Greased Superb Bone Sword of Defilement".
+Added a weapon called "Greased Superb Bone Sword of Toxicity".
+Added a weapon called "Greased Superb Bone Sword of Pestilence".
+Added a weapon called "Greased Superb Bone Sword of Maladies".
+Added a weapon called "Greased Superb Bone Sword of Miasma".
+
+Added a weapon called "Greased Crude Bone Battleaxe of Embers".
+Added a weapon called "Greased Crude Bone Battleaxe of Burning".
+Added a weapon called "Greased Crude Bone Battleaxe of Scorching".
+Added a weapon called "Greased Crude Bone Battleaxe of Flames".
+Added a weapon called "Greased Crude Bone Battleaxe of the Blaze".
+Added a weapon called "Greased Crude Bone Battleaxe of the Inferno".
+
+Added a weapon called "Greased Crude Bone Battleaxe of Cold".
+Added a weapon called "Greased Crude Bone Battleaxe of Frost".
+Added a weapon called "Greased Crude Bone Battleaxe of Ice".
+Added a weapon called "Greased Crude Bone Battleaxe of Freezing".
+Added a weapon called "Greased Crude Bone Battleaxe of the Blizzard".
+Added a weapon called "Greased Crude Bone Battleaxe of the Winter".
+
+Added a weapon called "Greased Crude Bone Battleaxe of Sparks".
+Added a weapon called "Greased Crude Bone Battleaxe of Arcing".
+Added a weapon called "Greased Crude Bone Battleaxe of Shocks".
+Added a weapon called "Greased Crude Bone Battleaxe of Thunderbolts".
+Added a weapon called "Greased Crude Bone Battleaxe of Lightning".
+Added a weapon called "Greased Crude Bone Battleaxe of Storms".
+
+Added a weapon called "Greased Crude Bone Battleaxe of Poisoning".
+Added a weapon called "Greased Crude Bone Battleaxe of Defilement".
+Added a weapon called "Greased Crude Bone Battleaxe of Toxicity".
+Added a weapon called "Greased Crude Bone Battleaxe of Pestilence".
+Added a weapon called "Greased Crude Bone Battleaxe of Maladies".
+Added a weapon called "Greased Crude Bone Battleaxe of Miasma".
+
+Added a weapon called "Greased Fair Bone Battleaxe of Embers".
+Added a weapon called "Greased Fair Bone Battleaxe of Burning".
+Added a weapon called "Greased Fair Bone Battleaxe of Scorching".
+Added a weapon called "Greased Fair Bone Battleaxe of Flames".
+Added a weapon called "Greased Fair Bone Battleaxe of the Blaze".
+Added a weapon called "Greased Fair Bone Battleaxe of the Inferno".
+
+Added a weapon called "Greased Fair Bone Battleaxe of Cold".
+Added a weapon called "Greased Fair Bone Battleaxe of Frost".
+Added a weapon called "Greased Fair Bone Battleaxe of Ice".
+Added a weapon called "Greased Fair Bone Battleaxe of Freezing".
+Added a weapon called "Greased Fair Bone Battleaxe of the Blizzard".
+Added a weapon called "Greased Fair Bone Battleaxe of the Winter".
+
+Added a weapon called "Greased Fair Bone Battleaxe of Sparks".
+Added a weapon called "Greased Fair Bone Battleaxe of Arcing".
+Added a weapon called "Greased Fair Bone Battleaxe of Shocks".
+Added a weapon called "Greased Fair Bone Battleaxe of Thunderbolts".
+Added a weapon called "Greased Fair Bone Battleaxe of Lightning".
+Added a weapon called "Greased Fair Bone Battleaxe of Storms".
+
+Added a weapon called "Greased Fair Bone Battleaxe of Poisoning".
+Added a weapon called "Greased Fair Bone Battleaxe of Defilement".
+Added a weapon called "Greased Fair Bone Battleaxe of Toxicity".
+Added a weapon called "Greased Fair Bone Battleaxe of Pestilence".
+Added a weapon called "Greased Fair Bone Battleaxe of Maladies".
+Added a weapon called "Greased Fair Bone Battleaxe of Miasma".
+
+Added a weapon called "Greased Refined Bone Battleaxe of Embers".
+Added a weapon called "Greased Refined Bone Battleaxe of Burning".
+Added a weapon called "Greased Refined Bone Battleaxe of Scorching".
+Added a weapon called "Greased Refined Bone Battleaxe of Flames".
+Added a weapon called "Greased Refined Bone Battleaxe of the Blaze".
+Added a weapon called "Greased Refined Bone Battleaxe of the Inferno".
+
+Added a weapon called "Greased Refined Bone Battleaxe of Cold".
+Added a weapon called "Greased Refined Bone Battleaxe of Frost".
+Added a weapon called "Greased Refined Bone Battleaxe of Ice".
+Added a weapon called "Greased Refined Bone Battleaxe of Freezing".
+Added a weapon called "Greased Refined Bone Battleaxe of the Blizzard".
+Added a weapon called "Greased Refined Bone Battleaxe of the Winter".
+							   
+Added a weapon called "Greased Refined Bone Battleaxe of Sparks".
+Added a weapon called "Greased Refined Bone Battleaxe of Arcing".
+Added a weapon called "Greased Refined Bone Battleaxe of Shocks".
+Added a weapon called "Greased Refined Bone Battleaxe of Thunderbolts".
+Added a weapon called "Greased Refined Bone Battleaxe of Lightning".
+Added a weapon called "Greased Refined Bone Battleaxe of Storms".
+							   
+Added a weapon called "Greased Refined Bone Battleaxe of Poisoning".
+Added a weapon called "Greased Refined Bone Battleaxe of Defilement".
+Added a weapon called "Greased Refined Bone Battleaxe of Toxicity".
+Added a weapon called "Greased Refined Bone Battleaxe of Pestilence".
+Added a weapon called "Greased Refined Bone Battleaxe of Maladies".
+Added a weapon called "Greased Refined Bone Battleaxe of Miasma".
+
+Added a weapon called "Greased Superb Bone Battleaxe of Embers".
+Added a weapon called "Greased Superb Bone Battleaxe of Burning".
+Added a weapon called "Greased Superb Bone Battleaxe of Scorching".
+Added a weapon called "Greased Superb Bone Battleaxe of Flames".
+Added a weapon called "Greased Superb Bone Battleaxe of the Blaze".
+Added a weapon called "Greased Superb Bone Battleaxe of the Inferno".
+							   
+Added a weapon called "Greased Superb Bone Battleaxe of Cold".
+Added a weapon called "Greased Superb Bone Battleaxe of Frost".
+Added a weapon called "Greased Superb Bone Battleaxe of Ice".
+Added a weapon called "Greased Superb Bone Battleaxe of Freezing".
+Added a weapon called "Greased Superb Bone Battleaxe of the Blizzard".
+Added a weapon called "Greased Superb Bone Battleaxe of the Winter".
+							   
+Added a weapon called "Greased Superb Bone Battleaxe of Sparks".
+Added a weapon called "Greased Superb Bone Battleaxe of Arcing".
+Added a weapon called "Greased Superb Bone Battleaxe of Shocks".
+Added a weapon called "Greased Superb Bone Battleaxe of Thunderbolts".
+Added a weapon called "Greased Superb Bone Battleaxe of Lightning".
+Added a weapon called "Greased Superb Bone Battleaxe of Storms".
+							   
+Added a weapon called "Greased Superb Bone Battleaxe of Poisoning".
+Added a weapon called "Greased Superb Bone Battleaxe of Defilement".
+Added a weapon called "Greased Superb Bone Battleaxe of Toxicity".
+Added a weapon called "Greased Superb Bone Battleaxe of Pestilence".
+Added a weapon called "Greased Superb Bone Battleaxe of Maladies".
+Added a weapon called "Greased Superb Bone Battleaxe of Miasma".
 
 ==============================
 ===Miscelaneous Recipes===
@@ -454,11 +698,254 @@ Added a Handcraft recipe to craft Fair Bone Bow and its tempering recipe for the
 Added a Handcraft recipe to craft Refined Bone Bow and its tempering recipe for the grindstone.
 Added a Handcraft recipe to craft Superb Bone Bow and its tempering recipe for the grindstone.
 
-Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 15.
-Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 30.
-Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 45.
-Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 60.
-Added a Handcraft recipe to craft Greased Crude Bone Flaming Sword with Fire Damage 80.
+Added a Handcraft recipe to craft Crude Bone Dagger and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Fair Bone Dagger and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Refined Bone Dagger and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Superb Bone Dagger and its tempering recipe for the grindstone.
+
+Added a Handcraft recipe to craft Crude Bone Mace and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Fair Bone Mace and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Refined Bone Mace and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Superb Bone Mace and its tempering recipe for the grindstone.
+
+Added a Handcraft recipe to craft Crude Bone Greatsword and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Fair Bone Greatsword and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Refined Bone Greatsword and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Superb Bone Greatsword and its tempering recipe for the grindstone.
+
+Added a Handcraft recipe to craft Crude Bone Battleaxe and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Fair Bone Battleaxe and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Refined Bone Battleaxe and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Superb Bone Battleaxe and its tempering recipe for the grindstone.
+
+Added a Handcraft recipe to craft Crude Bone Warhammer and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Fair Bone Warhammer and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Refined Bone Warhammer and its tempering recipe for the grindstone.
+Added a Handcraft recipe to craft Superb Bone Warhammer and its tempering recipe for the grindstone.
+
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Embers".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Burning".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Scorching".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Flames".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of the Blaze".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of the Inferno".
+
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Cold".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Frost".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Ice".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Freezing".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of the Blizzard".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of the Winter".
+
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Sparks".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Arcing".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Shocks".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Thunderbolts".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Lightning".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Shocks".
+
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Poisoning".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Defilement".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Toxicity".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Pestilence".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Maladies".
+Added a Handcraft recipe to craft "Greased Crude Bone Sword of Miasma".
+
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Embers".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Burning".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Scorching".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Flames".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of the Blaze".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of the Inferno".
+										   
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Cold".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Frost".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Ice".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Freezing".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of the Blizzard".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of the Winter".
+										   
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Sparks".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Arcing".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Shocks".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Thunderbolts".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Lightning".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Storms".
+
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Poisoning".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Defilement".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Toxicity".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Pestilence".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Maladies".
+Added a Handcraft recipe to craft "Greased Fair Bone Sword of Miasma".
+
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Embers".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Burning".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Scorching".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Flames".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of the Blaze".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of the Inferno".
+										   
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Cold".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Frost".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Ice".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Freezing".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of the Blizzard".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of the Winter".
+										   
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Sparks".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Arcing".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Shocks".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Thunderbolts".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Lightning".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Storms".
+										   
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Poisoning".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Defilement".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Toxicity".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Pestilence".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Maladies".
+Added a Handcraft recipe to craft "Greased Refined Bone Sword of Miasma".
+
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Embers".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Burning".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Scorching".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Flames".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of the Blaze".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of the Inferno".
+										   
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Cold".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Frost".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Ice".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Freezing".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of the Blizzard".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of the Winter".
+										   
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Sparks".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Arcing".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Shocks".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Thunderbolts".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Lightning".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Storms".
+										   
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Poisoning".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Defilement".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Toxicity".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Pestilence".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Maladies".
+Added a Handcraft recipe to craft "Greased Superb Bone Sword of Miasma".
+
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Embers".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Burning".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Scorching".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Flames".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of the Blaze".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of the Inferno".
+													  
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Cold".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Frost".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Ice".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Freezing".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of the Blizzard".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of the Winter".
+													  
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Sparks".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Arcing".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Shocks".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Thunderbolts".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Lightning".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Shocks".
+													  
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Poisoning".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Defilement".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Toxicity".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Pestilence".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Maladies".
+Added a Handcraft recipe to craft "Greased Crude Bone Battleaxe of Miasma".
+
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Embers".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Burning".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Scorching".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Flames".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of the Blaze".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of the Inferno".
+													 
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Cold".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Frost".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Ice".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Freezing".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of the Blizzard".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of the Winter".
+													 
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Sparks".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Arcing".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Shocks".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Thunderbolts".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Lightning".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Storms".
+													 
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Poisoning".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Defilement".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Toxicity".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Pestilence".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Maladies".
+Added a Handcraft recipe to craft "Greased Fair Bone Battleaxe of Miasma".
+
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Embers".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Burning".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Scorching".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Flames".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of the Blaze".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of the Inferno".
+														
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Cold".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Frost".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Ice".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Freezing".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of the Blizzard".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of the Winter".
+														
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Sparks".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Arcing".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Shocks".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Thunderbolts".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Lightning".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Storms".
+														
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Poisoning".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Defilement".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Toxicity".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Pestilence".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Maladies".
+Added a Handcraft recipe to craft "Greased Refined Bone Battleaxe of Miasma".
+
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Embers".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Burning".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Scorching".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Flames".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of the Blaze".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of the Inferno".
+													   
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Cold".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Frost".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Ice".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Freezing".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of the Blizzard".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of the Winter".
+													   
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Sparks".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Arcing".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Shocks".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Thunderbolts".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Lightning".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Storms".
+													   
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Poisoning".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Defilement".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Toxicity".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Pestilence".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Maladies".
+Added a Handcraft recipe to craft "Greased Superb Bone Battleaxe of Miasma".
 
 ==============================
 ===Armor Recipes===
